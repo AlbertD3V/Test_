@@ -5,4 +5,5 @@ while True:
     print(f"Hi {nome}, how are you? ")
     resp = str(input("? "))
     print(f"Oh, Ok..")
-    
+    #########
+    break
